@@ -1,0 +1,12 @@
+{
+    "name": "learnakia/userservice",
+    "description": "Package for user microservice",
+    "require": {
+        "laravel/framework": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Learnakia\\Userservice\\": "src/"
+        }
+    }
+}
